@@ -10,4 +10,5 @@ int main() {
 
     
     cout << "Hello world! my name is " << name << endl;
+   return 0;
 }
